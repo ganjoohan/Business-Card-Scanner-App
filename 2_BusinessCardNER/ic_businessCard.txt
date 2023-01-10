@@ -1,0 +1,75 @@
+id	text	tag
+000.jpg	 	O
+000.jpg	 	O
+000.jpg	 	O
+000.jpg	ates	O
+000.jpg	"5,"	O
+000.jpg	PENGENALAN	O
+000.jpg	ke	O
+000.jpg	Bre	O
+000.jpg	550106-12-5821	B-IC
+000.jpg	~~	O
+000.jpg	ROWAN	B-Name
+000.jpg	SEBASTIAN	I-Name
+000.jpg	.	O
+000.jpg	ATKINSON	I-Name
+000.jpg	GDW	B-Address
+000.jpg	KAMPUNG	I-Address
+000.jpg	BAYANGAN	I-Address
+000.jpg	a	O
+000.jpg	J	O
+000.jpg	80000	I-Address
+000.jpg	KENINGAU	I-Address
+000.jpg	WARGANEGARA	O
+001.jpg	 	O
+002.jpg	MALAYSIA	O
+002.jpg	5§10317-13-5131	B-IC
+002.jpg	€	O
+002.jpg	DATO	B-Name
+002.jpg	HUSSIN	I-Name
+002.jpg	NO	B-Address
+002.jpg	1622	I-Address
+002.jpg	BDC	I-Address
+002.jpg	LORONG	I-Address
+002.jpg	E1	I-Address
+002.jpg	TAMAN	I-Address
+002.jpg	SATRIA	I-Address
+002.jpg	"JAYA,"	I-Address
+002.jpg	he	O
+002.jpg	q	O
+002.jpg	STUTONG	I-Address
+002.jpg	STAMPIN	I-Address
+002.jpg	WARGANEGARA	O
+004.jpg	 	O
+004.jpg	d	O
+004.jpg	KAD	O
+004.jpg	PENGENALAN	O
+004.jpg	MALAYSIA	O
+004.jpg	ox	O
+004.jpg	770730-02-5383	B-IC
+004.jpg	ae	O
+004.jpg	9	O
+004.jpg	MOHAMMAD	B-Name
+004.jpg	FIRDAUS	I-Name
+004.jpg	BIN	I-Name
+004.jpg	ISHAK	I-Name
+004.jpg	159.8	O
+004.jpg	JALAN	B-Address
+004.jpg	ASTANA	I-Address
+004.jpg	PETRA	I-Address
+004.jpg	JAYA	I-Address
+004.jpg	 	O
+004.jpg	 	O
+005.jpg	|	O
+005.jpg	Be	O
+005.jpg	460619-12-	B-IC
+005.jpg	5087	I-IC
+005.jpg	ABD	B-Name
+005.jpg	RAUF	I-Name
+005.jpg	BIN	I-Name
+005.jpg	HAMSAH	I-Name
+005.jpg	 	O
+005.jpg	 	O
+005.jpg	KENINGAL	B-Address
+005.jpg	cee	O
+005.jpg	Pe	O
